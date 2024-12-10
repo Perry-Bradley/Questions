@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#theTitle {
+    color: blue;
+}
+
+#theParagraph {
+    color: green;
+}
+
+#myDiv {
+    background-color: lightgray; /* Initial background color */
+    padding: 20px;
+    margin: 20px 0;
+}
